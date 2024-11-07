@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a brawl stars eSports oriented discord bot <br>🤝 I’m looking for help with making this bot generic - not just brawl-stars oriented<br>🌱 I’m currently learning C++<br>💬 Ask me about random BS i would probably have to google about<br>⚡ Fun fact: I'm also studying medicine
+🔭 I’m currently working on a brawl stars eSports oriented discord bot <br>🤝 I’m looking for help with making this bot generic - not just brawl-stars oriented<br>🌱 I’m currently learning Typescript more and more<br>💬 Ask me about random BS i would probably have to google about<br>⚡ Fun fact: I'm also studying medicine
 
 
 ## 🌐 Socials:
